@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class form3 {
+import javax.swing.*;
+
+public class form3 {
+    public JPanel menu3;
 }
